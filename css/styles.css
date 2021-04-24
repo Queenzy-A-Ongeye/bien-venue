@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One&display=swap");
+.header {
+  background-image: url("../images/banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+}
+#pic {
+  background: rgba(110, 90, 224, 0.534);
+  height: 600px;
+}
+.circular--square {
+  border-radius: 60%;
+}
+.hop {
+  padding-top: 3%;
+  padding-left: 2%;
+}
+#log {
+  float: right;
+  margin-top: 3%;
+  /* padding-right: 3%; */
+  /* padding-bottom: 3%; */
+}
+.head {
+  text-align: center;
+  color: white;
+  padding-top: 5%;
+}
+h1 {
+  font-size: 55px;
+  font-family: "Orelega One", cursive;
+}
+.pop {
+  font-size: 20px;
+}
+#sub {
+  height: 50px;
+  width: 200px;
+  border-radius: 25px;
+  box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.945);
+  background-color: #8a2be2;
+  color: white;
+}
+#pot{
+    padding-top: 5px;
+    color: #7f11e6e1;
+    /* opacity: 0.4; */
+}
+h2 {
+  color: #800080;
+  font-size: 25px;
+}
+.img {
+  float: right;
+  margin-top: -17%;
+  margin-right: -4%;
+  /* margin-bottom: -6%; */
+}
+.card-body {
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgba(195, 194, 194, 0.945);
+  width: 450px;
+  height: 280px;
+}
+#pop {
+  padding-top: 5%;
+  font-size: 20px;
+}
+#range {
+  display: flex;
+}
+.col-md-4 {
+  margin: 3.8em;
+  margin-bottom: 0.5em;
+}
+#img {
+  margin-top: -17%;
+  margin-right: -4%;
+}
+.top {
+  text-align: center;
+  padding-top: 5%;
+}
+.range> img{
+    padding: 3px;
+}
+h3{
+    font-size: 15px;
+    color: #800080;
+}
